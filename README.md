@@ -117,7 +117,7 @@ The project includes unit tests for critical business logic, such as the `Confli
 ### Running the App
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/boyscout0819/marketplace.git
+   git clone https://github.com/boyscout0819/marketplace-app.git
    ```
 2. **Open the project** in Android Studio.
 3. **Sync Gradle**: Click on the "Elephant" icon or go to `File > Sync Project with Gradle Files`.
